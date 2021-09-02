@@ -1,6 +1,7 @@
 ### Hello World! 
 <h1> I'm Maicon. </h1>
 
+- 🏢 I’m currently working at IBM.
 - 🔭 I’m currently working on Tests and Mobile.
 - 🌱 I’m currently learning Robot Framework, Flutter and Artificial Intelligence.
 - 👯 I’m looking to collaborate on Funny and Produtives Projects
